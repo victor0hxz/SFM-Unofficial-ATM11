@@ -1,0 +1,13 @@
+{
+  "originalJar": "Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar",
+  "originalSha256": "77d8d4bba7cdf6e17239c7eed8292159108f141e060037ec1349920d7bffc415",
+  "publishedArchiveSha256": "e481a498c9aedddf21ebb2c466e4b9e720f5f07a1f9804ff4e718aeff7c3c2d5",
+  "classes": 1247,
+  "classMajors": [
+    69
+  ],
+  "licenseEmbedded": true,
+  "archiveIntegrity": "PASS",
+  "jsonParsing": "PASS",
+  "runtimeValidation": "Recompiled artifact located in the previous ATM11 server correction package. Archive integrity and metadata verified; no new full-pack runtime validation was performed for this publication."
+}

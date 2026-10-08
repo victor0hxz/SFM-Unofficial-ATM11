@@ -1,0 +1,9 @@
+.gradle/
+**/build/
+**/run/
+node_modules/
+*.log
+.env
+.idea/
+.serena/
+publicacao-*/
