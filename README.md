@@ -57,10 +57,6 @@ Thank you to TeamDman and the Super Factory Manager contributors for the origina
 
 ## Build and port documentation
 
----
-
-## Build and port documentation
-
 # Super Factory Manager - Unofficial Fan Build (26.1.2)
 
 Provides programmable factory automation and resource routing through a controller and cable network. This fan-maintained compatibility build preserves the SFM programming workflow and includes the Buffer item registration correction from the local ATM11 project.
