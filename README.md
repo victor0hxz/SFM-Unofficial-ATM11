@@ -1,11 +1,11 @@
 <!-- VERSION-LOCKED-PUBLICATION:START -->
 # Super Factory Manager: Version Locked
 
-<img src="https://raw.githubusercontent.com/victor0hxz/SFM-Unofficial-ATM11/main/publication/LOGO-VERSION-LOCKED.png" alt="Super Factory Manager: Version Locked" width="480" />
+<img src="https://raw.githubusercontent.com/victor0hxz/SFM-Version-Locked/main/publication/BANNER-VERSION-LOCKED.png" alt="Super Factory Manager: Version Locked" width="100%" />
 
 **Minecraft 26.1.2 · NeoForge · Java 25**
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/super-factory-manager-unofficial-fan-build-26-1-2) · [Downloads](https://github.com/victor0hxz/SFM-Unofficial-ATM11/releases) · [Source](https://github.com/victor0hxz/SFM-Unofficial-ATM11) · [Report an issue](https://github.com/victor0hxz/SFM-Unofficial-ATM11/issues)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/super-factory-manager-unofficial-fan-build-26-1-2) · [Downloads](https://github.com/victor0hxz/SFM-Version-Locked/releases) · [Source](https://github.com/victor0hxz/SFM-Version-Locked) · [Report an issue](https://github.com/victor0hxz/SFM-Version-Locked/issues)
 
 An unofficial community port for Minecraft 26.1.2 and NeoForge.
 
@@ -33,7 +33,7 @@ This port does not claim ownership of the original code, artwork or assets. The 
 
 ## 🛠️ Bugs and compatibility
 
-Please report port-specific issues at https://github.com/victor0hxz/SFM-Unofficial-ATM11/issues. Include your Minecraft and NeoForge versions, installed mod list, relevant logs and any crash report. Compatibility with every mod combination has not been verified.
+Please report port-specific issues at https://github.com/victor0hxz/SFM-Version-Locked/issues. Include your Minecraft and NeoForge versions, installed mod list, relevant logs and any crash report. Compatibility with every mod combination has not been verified.
 
 ## 🧪 ATM11 compatibility
 
@@ -46,7 +46,7 @@ This distribution was prepared for the ATM11 compatibility project. Recompiled a
 - Java: 25
 - Project type: unofficial community port
 - License: MPL-2.0
-- GitHub, downloads and source documentation: https://github.com/victor0hxz/SFM-Unofficial-ATM11
+- GitHub, downloads and source documentation: https://github.com/victor0hxz/SFM-Version-Locked
 - Installation: replace older copies of this mod and avoid duplicate mod IDs.
 
 Thank you to TeamDman and the Super Factory Manager contributors for the original project.
@@ -57,7 +57,7 @@ Thank you to TeamDman and the Super Factory Manager contributors for the origina
 
 ## Build and port documentation
 
-# Super Factory Manager - Unofficial Fan Build (26.1.2)
+# Super Factory Manager Version Locked
 
 Provides programmable factory automation and resource routing through a controller and cable network. This fan-maintained compatibility build preserves the SFM programming workflow and includes the Buffer item registration correction from the local ATM11 project.
 
@@ -85,7 +85,7 @@ The corresponding local source snapshot is provided in `sfm-corresponding-source
 
 ## Downloads and support
 
-Download the unofficial prerelease JAR from [this repository's releases](https://github.com/victor0hxz/SFM-Unofficial-ATM11/releases). Report problems to [this port's issue tracker](https://github.com/victor0hxz/SFM-Unofficial-ATM11/issues). Do not direct port-specific support requests to the original authors.
+Download the unofficial prerelease JAR from [this repository's releases](https://github.com/victor0hxz/SFM-Version-Locked/releases). Report problems to [this port's issue tracker](https://github.com/victor0hxz/SFM-Version-Locked/issues). Do not direct port-specific support requests to the original authors.
 
 ## Build source
 
