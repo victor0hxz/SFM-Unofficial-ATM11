@@ -1,0 +1,18 @@
+{
+  "displayName": "Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar",
+  "changelog": "Initial unofficial fan compatibility build for Minecraft 26.1.2.\n\nProvides programmable factory automation and resource routing through a controller and cable network. This fan-maintained compatibility build preserves the SFM programming workflow and includes the Buffer item registration correction from the local ATM11 project.\n\nRecompiled artifact located in the previous ATM11 server correction package. Archive integrity and metadata verified; no new full-pack runtime validation was performed for this publication.\n",
+  "changelogType": "markdown",
+  "releaseType": "beta",
+  "relations": {
+    "projects": [
+      {
+        "type": "optionalDependency",
+        "slug": "mekanism-version-locked"
+      },
+      {
+        "type": "optionalDependency",
+        "slug": "cc-tweaked"
+      }
+    ]
+  }
+}
